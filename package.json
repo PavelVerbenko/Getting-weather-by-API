@@ -1,0 +1,11 @@
+{
+  "name": "getting_weat_er_by_api",
+  "version": "1.0.0",
+  "description": "[Данный](https://jsdemo-3f387-default-rtdb.europe-west1.firebasedatabase.app/weatherstack/amsterdam.json) `Endpoint` ниже возвращает погоду для `Amsterdam`, [этот](https://jsdemo-3f387-default-rtdb.europe-west1.firebasedatabase.app/weatherstack/berlin.json) возвращает погоду для `Berlin`. Структура данных такая же, как на сайте [Weatherstack.com](https://weatherstack.com/). Завершите функцию `getWeather`, чтобы она делала запрос, вызвала функцию `showTemperature` с температурой в городе, полученной от API.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Pavel Verbenko",
+  "license": "ISC"
+}
